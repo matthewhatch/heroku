@@ -4,5 +4,5 @@
 
 ##TODO
 * compare config vars from different apps
-* rails db migate and then restart in one command
+* rails db migrate and then restart in one command
 * pg info connections
